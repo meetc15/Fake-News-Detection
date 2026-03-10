@@ -55,7 +55,7 @@ Fake News Detection/
 
 | Metric | Score |
 |--------|-------|
-| Accuracy | 97.15% |
+| Accuracy | 97.22% |
 | Precision | 0.97 |
 | Recall | 0.97 |
 | F1 Score | 0.97 |
