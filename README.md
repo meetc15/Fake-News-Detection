@@ -77,7 +77,7 @@ Place `Fake.csv` and `True.csv` inside the `dataset/` folder.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/meetc15/fake-news-detection.git
 cd fake-news-detection
 ```
 
@@ -108,7 +108,7 @@ python app.py
 
 ### 6. Open in browser
 ```
-http://localhost:5000
+http://localhost:xxxx
 ```
 
 ---
